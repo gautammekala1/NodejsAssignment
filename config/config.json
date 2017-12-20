@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "auvqlcaw",
+    "password": "pt5qNp0-0QYyqxza8waC8Drxf3Mfv5Za",
+    "database": "auvqlcaw",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "auvqlcaw",
+    "password": "pt5qNp0-0QYyqxza8waC8Drxf3Mfv5Za",
+    "database": "auvqlcaw",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "auvqlcaw",
+    "password": "pt5qNp0-0QYyqxza8waC8Drxf3Mfv5Za",
+    "database": "auvqlcaw",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
